@@ -6,7 +6,7 @@ on:
 
 env:
   SCHEME: MyFirstSwiftPackage
-  TEST_DEVICE: platform=iOS Simulator,name=iPhone 11,OS=15.2
+  TEST_DEVICE: platform=iOS Simulator,name=iPhone 14,OS=16.2
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
 
     steps:
     - name: Checkout project repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4
 
     - name: Build
       shell: bash
