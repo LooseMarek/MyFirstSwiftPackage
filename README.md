@@ -10,6 +10,8 @@
 
 Up-to-date with Xcode 13.2.1!
 
+<a href="https://www.buymeacoffee.com/loosemarek" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 ## Intro
 
 This article is a continuation of the [Quick and Simple Modularising Your Project with Swift Packages](https://github.com/LooseMarek/SwiftPackageTutorial) tutorial where we created a local Swift Package and then moved it to the remote repository so we could reuse the module across multiple projects. 
